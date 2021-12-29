@@ -1,5 +1,5 @@
-import { GAME_RESULT_DRAW, GAME_RESULT_YOU_LOST, GAME_RESULT_YOU_WIN } from '/consts.js';
-import LinkedSelectionManager from '/linked-selection-manager.js';
+import { GAME_RESULT_DRAW, GAME_RESULT_YOU_LOST, GAME_RESULT_YOU_WIN } from '/src/js/consts.js';
+import LinkedSelectionManager from '/src/js/linked-selection-manager.js';
 
 export default class GameManager {
     _roundCount = 5;

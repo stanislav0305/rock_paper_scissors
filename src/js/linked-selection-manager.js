@@ -1,4 +1,4 @@
-import LinkedSelection from '/linked-selection.js';
+import LinkedSelection from '/src/js/linked-selection.js';
 
 export default class LinkedSelectionManager {
     constructor() {

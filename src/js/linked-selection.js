@@ -1,4 +1,4 @@
-import { GAME_RESULT_DRAW, GAME_RESULT_YOU_LOST, GAME_RESULT_YOU_WIN } from '/consts.js';
+import { GAME_RESULT_DRAW, GAME_RESULT_YOU_LOST, GAME_RESULT_YOU_WIN } from '/src/js/consts.js';
 
 export default class LinkedSelection {
     constructor(value, winCompareText) {
