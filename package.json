@@ -1,0 +1,23 @@
+{
+  "name": "rock_paper_scissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "http-server -a localhost -p 8000 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislav0305/rock_paper_scissors.git"
+  },
+  "author": "Stanislav Torman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanislav0305/rock_paper_scissors/issues"
+  },
+  "homepage": "https://github.com/stanislav0305/rock_paper_scissors#readme",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
